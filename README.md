@@ -6,6 +6,9 @@ Please address any feedback to Jun Chen chenj@frib.msu.edu
 
 ## Change history
 
+#### 2023-02
+Bug fix.
+
 #### 2022-11
 Add function to calculate absolute instensity balances (level feedings) directly in the normalization process, more accuate than calculations using the input NR factor and also solving the uncertainty overcounting issue where gamma intensities are used in normalization for obtaining NR.
 
