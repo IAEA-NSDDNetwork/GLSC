@@ -6,7 +6,7 @@ Please address any feedback to Jun Chen chenj@frib.msu.edu
 
 ## Change history
 
-#### 2023-03
+#### 2023-05
 Added an option for calculating E(gamma) without uncertainties from level-energy differences and writing calculated E(gamma) to a new output dataset. To get this option, load an ENSDF file and right click on "Run" button. 
 
 #### 2023-03
