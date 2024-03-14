@@ -6,6 +6,13 @@ Please address any feedback to Jun Chen chenj@frib.msu.edu
 
 ## Change history
 
+#### 2024-03
+Bug fixes and improvments. 
+
+Added a new output called "GLSC_combined.out" which contains both the E(level) values from a GTOL fit and %IG continuation records from GABS calculations. An option is also added (click "More" button) for replacing (or creating if not exist) the IB (B-) or TI (EC/B+) records with the new values from GABS calculations.
+
+By default, uncertainties are always given in the output file for E(level) even if there are no uncertainties in gamma-ray energies used for the fit for which cases an uncertainty is assumed based on the precision of the EG value for the fitting purpose. An option is also added to remove E(level) uncertainty, when there is no any path of gammas from this level to a level with fixed energy (e.g., g.s.), with all gammas in the path having experimental uncertainties.
+
 #### 2023-05
 Added an option for calculating E(gamma) without uncertainties from level-energy differences and writing calculated E(gamma) to a new output dataset. To get this option, load an ENSDF file and right click on "Run" button. 
 
