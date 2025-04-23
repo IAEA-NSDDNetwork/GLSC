@@ -6,6 +6,9 @@ Please address any feedback to Jun Chen chenj@frib.msu.edu
 
 ## Change history
 
+#### 2025-04
+Improved rounding of values after arithmetic operations on input values without uncertainties or with non-numerical uncertainties
+
 #### 2025-03
 Bug fixes and improvments. 
 
