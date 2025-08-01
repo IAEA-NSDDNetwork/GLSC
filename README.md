@@ -6,23 +6,26 @@ Please address any feedback to Jun Chen chenj@frib.msu.edu
 
 ## Change history
 
+#### 2025-07
+Bug fixes and improvements. 
+
 #### 2025-04
 Improved rounding of values after arithmetic operations on input values without uncertainties or with non-numerical uncertainties
 
 #### 2025-03
-Bug fixes and improvments. 
+Bug fixes and improvements. 
 
 #### 2024-11
-Bug fixes and improvments. 
+Bug fixes and improvements. 
 
 #### 2024-08
-Minor bug fixes and improvments.
+Minor bug fixes and improvements.
 
 #### 2024-06
-Bug fixes and improvments. 
+Bug fixes and improvements. 
 
 #### 2024-03
-Bug fixes and improvments. 
+Bug fixes and improvements. 
 
 Added a new output called "GLSC_combined.out" which contains both the E(level) values from a GTOL fit and %IG continuation records from GABS calculations. An option is also added (click "More" button) for replacing (or creating if not exist) the IB (B-) or TI (EC/B+) records with the new values from GABS calculations.
 
@@ -38,7 +41,7 @@ Bug fix.
 Bug fix.
 
 #### 2022-11
-Add function to calculate absolute instensity balances (level feedings) directly in the normalization process, more accuate than calculations using the input NR factor and also solving the uncertainty overcounting issue where gamma intensities are used in normalization for obtaining NR.
+Add function to calculate absolute instensity balances (level feedings) directly in the normalization process, more accurate than calculations using the input NR factor and also solving the uncertainty overcounting issue where gamma intensities are used in normalization for obtaining NR.
 
 #### 2022-10
 Bug fix.
